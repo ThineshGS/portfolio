@@ -1,0 +1,50 @@
+body {
+    background-color: #110023;
+}
+
+.nav-pills {
+    --bs-nav-pills-border-radius: var(--bs-border-radius);
+    --bs-nav-pills-link-active-color: #ffffff;
+    --bs-nav-pills-link-active-bg: #ED6583;
+}
+
+.nav {
+    --bs-nav-link-color: white;
+    --bs-nav-link-hover-color: #ED6583;
+}
+
+.fs-4 {
+    color: white;
+}
+
+.text-body-emphasis {
+    --bs-text-opacity: 1;
+    color: #E1E5F1!important;
+}
+
+.lead {
+    color: #E4E7F1;
+}
+
+.btn-primary {
+    --bs-btn-bg: #BF62A7;
+    --bs-btn-border-color: #BF62A7;
+    --bs-btn-hover-bg: #ED6583;
+    --bs-btn-hover-border-color: #ED6583;
+}
+
+.pb-2 {
+    color: white;
+}
+
+.about-me {
+    color: white;
+}
+
+.fs-5 {
+    color: whitesmoke;
+}
+
+.mb-3 {
+    color: white;
+}
